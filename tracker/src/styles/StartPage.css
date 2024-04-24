@@ -1,0 +1,15 @@
+.logo {
+    animation: slideIn 2s ease-in-out; /* Define the animation */
+  }
+  
+  @keyframes slideIn {
+    0% {
+      opacity: 0; /* Start with zero opacity */
+      transform: translateY(-100px); /* Move the logo up */
+    }
+    100% {
+      opacity: 1; /* End with full opacity */
+      transform: translateY(0); /* Move the logo to its original position */
+    }
+  }
+  

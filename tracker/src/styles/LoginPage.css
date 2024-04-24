@@ -1,0 +1,16 @@
+/* Styles for the body of the login page */
+body.login-page {
+  background-image: url('./../styles/signup.png'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* This ensures the background covers the entire viewport height */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+/* Styles for the login form container */
+.card.login-form {
+  background-color: rgba(76, 72, 72, 0.8); /* You can adjust the opacity if needed */
+  border-radius: 10px;
+  padding: 20px;
+}

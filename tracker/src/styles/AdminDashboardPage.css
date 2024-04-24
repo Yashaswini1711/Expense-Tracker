@@ -1,0 +1,9 @@
+.admin-dashboard-container {
+    background-image: url('../styles/Default.png'); /* Path to your image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Ensure the background covers the entire viewport height */
+  }
+  
+  /* Additional styles can be added here */
+  

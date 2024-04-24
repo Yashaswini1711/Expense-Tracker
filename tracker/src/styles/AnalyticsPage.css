@@ -1,0 +1,7 @@
+.card-container {
+    padding: 20px;
+    background-image: url('./../styles/Default.png'); /* Path to your image */
+    background-size: cover;
+    background-position: center;
+    background-size:130%;
+}
